@@ -5,7 +5,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-4.x-blue?logo=express)
 ![Status](https://img.shields.io/badge/status-active-success)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 Backend para **Shoply**, una API RESTful desarrollada con **Node.js**, **Express** y **Zod** para validaciones, que gestiona usuarios, productos e imágenes.  
 Implementa **CORS personalizado**, validaciones robustas, subida de imágenes y un sistema de autorización para administradores.
@@ -171,7 +170,6 @@ Haz un **fork**, crea una **rama** y envía un **pull request**.
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-4.x-blue?logo=express)
 ![Status](https://img.shields.io/badge/status-active-success)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 Backend for **Shoply**, a **RESTful API** built with **Node.js**, **Express**, and **Zod** for data validation.  
 It manages **users, products, images**, and includes **custom CORS**, image upload, authentication, and admin authorization.
