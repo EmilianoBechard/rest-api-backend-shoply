@@ -164,13 +164,6 @@ Haz un **fork**, crea una **rama** y envía un **pull request**.
 
 ---
 
-## **📜 Licencia**
-
-Este proyecto está bajo la licencia **MIT**.  
-Puedes usarlo, modificarlo y distribuirlo libremente.
-
----
-
 # **Shoply Backend** 🛍️ _(English)_
 
 > This backend complements the backend available at: [Shoply Frontend](https://github.com/EmilianoBechard/front-shoply)
