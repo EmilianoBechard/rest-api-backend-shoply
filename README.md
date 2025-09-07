@@ -173,7 +173,7 @@ Puedes usarlo, modificarlo y distribuirlo libremente.
 
 # **Shoply Backend** 🛍️ _(English)_
 
- This backend complements the backend available at: [Shoply Frontend](https://github.com/EmilianoBechard/front-shoply)
+> This backend complements the backend available at: [Shoply Frontend](https://github.com/EmilianoBechard/front-shoply)
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-4.x-blue?logo=express)
