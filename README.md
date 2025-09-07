@@ -1,5 +1,7 @@
 # **Shoply Backend** 🛍️
 
+> Este backend se complementa con el frontend disponible en: [Shoply Frontend](https://github.com/EmilianoBechard/front-shoply)
+
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-4.x-blue?logo=express)
 ![Status](https://img.shields.io/badge/status-active-success)
@@ -170,6 +172,8 @@ Puedes usarlo, modificarlo y distribuirlo libremente.
 ---
 
 # **Shoply Backend** 🛍️ _(English)_
+
+ This backend complements the backend available at: [Shoply Frontend](https://github.com/EmilianoBechard/front-shoply)
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-4.x-blue?logo=express)
